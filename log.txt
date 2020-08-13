@@ -1,0 +1,43 @@
+2020-08-13
+---------------------------------------------
+  39.105.87.210 -> digital-work.cn 
+  subdomains:
+    - sngcomm.digital-work.cn
+    - public.digital-work.cn
+    - org1.digital-work.cn
+    - org2.digital-work.cn
+    - org3.digital-work.cn
+    - sng.digital-work.cn
+    - sng-internal.digital-work.cn
+    - logistic.digital-work.cn
+
+2020-08-11
+------------
+ray@air:~/lab$ whois digital-work.cn
+Domain Name: digital-work.cn
+ROID: 20190902s10001s16170349-cn
+Domain Status: ok
+Registrant: 北京实耐固连接技术有限公司
+Registrant Contact Email: liang.bi@sng.com.cn
+Sponsoring Registrar: 阿里巴巴云计算（北京）有限公司
+Name Server: dns29.hichina.com
+Name Server: dns30.hichina.com
+Registration Time: 2019-09-02 14:14:43
+Expiration Time: 2023-09-02 14:14:43
+DNSSEC: unsigned
+
+
+2020-07-20:
+---------------
+ray@air:~$ whois digital-work.cn
+Domain Name: digital-work.cn
+ROID: 20190902s10001s16170349-cn
+Domain Status: pendingTransfer
+Registrant: 北京实耐固连接技术有限公司
+Registrant Contact Email: lei.jia@sng.com.cn
+Sponsoring Registrar: 北京新网数码信息技术有限公司
+Name Server: ns11.xincache.com
+Name Server: ns12.xincache.com
+Registration Time: 2019-09-02 14:14:43
+Expiration Time: 2022-09-02 14:14:43
+DNSSEC: unsigned
